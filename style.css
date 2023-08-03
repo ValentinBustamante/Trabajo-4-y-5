@@ -1,0 +1,38 @@
+body{
+    background-color: #F3C300;
+}
+.header{
+    background-color: #8CBDFF; border-bottom-width:20px; border-color:blue; border-style:groove; width:100%;
+}
+.footer{
+    background-color: #8CBDFF; width:100%; 
+}
+h1{
+    font-size: 500%; font-family:aharoni; 
+}
+h2{
+    font-family:aharoni;
+}
+caption{
+    font-family:aharoni;
+}
+p{
+    font-size: 50%;
+}
+#destacado{
+    background-color: #ff8c8c;
+}
+form{
+    background-color: yellowgreen; border-color: gold; border-style:groove; width:500px; 
+}
+.link a:hover{
+    background-color:goldenrod; 
+}
+.ropa{
+    background-color: #ff8c8c; border-color:red; border-style:dashed; border-width:5px;
+}
+
+
+
+
+
